@@ -1,0 +1,22 @@
+{
+	"name": "dev-theme",
+	"authors": [
+		"Alex Andries <alexandru.andries@xivic.com>"
+	],
+	"description": "",
+	"main": "",
+	"license": "MIT",
+	"homepage": "http://wordpress.localhost.dev/",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	],
+	"dependencies": {
+		"bootstrap": "latest",
+		"components-font-awesome": "latest",
+		"owl.carousel": "latest"
+	}
+}

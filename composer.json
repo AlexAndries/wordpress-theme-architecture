@@ -1,0 +1,12 @@
+{
+    "name": "wordpress/theme-dev",
+    "authors": [
+        {
+            "name": "Alex Andries",
+            "email": "alexandru.andries@xivic.com"
+        }
+    ],
+    "require": {
+        "leafo/scssphp": "^0.6.5"
+    }
+}

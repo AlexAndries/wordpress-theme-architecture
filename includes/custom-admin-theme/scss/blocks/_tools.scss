@@ -1,0 +1,29 @@
+
+.tool-box .title {
+	margin: 0 0 23px 0;
+	line-height: 23px;
+}
+
+.form-wrap p, p.description {
+	margin: 0 0 23px 0;
+	color: #777;
+}
+
+
+table.importers {
+	width: 100%;
+	margin-bottom: 23px;
+}
+
+.importers td {
+	padding: 23px 23px 23px 23px;
+}
+
+.importers tr:hover td {
+	background-color: #f95e44;
+	color: #ffffff;
+}
+
+.importers tr:hover td a {
+	color: #ffffff;
+}

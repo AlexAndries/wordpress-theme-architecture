@@ -1,0 +1,39 @@
+$palettes: (
+		blue: (
+				base:#4363B3,
+				light: #467dbc,
+				dark: #1b1c51
+		),
+		green: (
+				base: #56a34c,
+				light: #fab242,
+				semi-light: #457b49,
+				semi-dark: #529949,
+				dark: #31612D,
+				ultra-dark: #1a2b1b
+		),
+		white: (
+				base: #fff,
+				dark: #f8f8f8
+		),
+		black: (
+				base: #000,
+				light: #202225,
+				dark: #464646,
+				ultra-dark: #1a1a1b
+		),
+		grey: (
+				base: #797979,
+				light: #d1d2d4
+		),
+		red: (
+				base: #ff0000
+		)
+);
+$breakpoints: (
+		tabletMin: '(min-width: 768px)',
+		tablet: '(min-width: 768px) and (max-width: 991px)',
+		laptopMin: '(min-width: 992px)',
+		laptop: '(min-width:992px) and (max-width: 1280px)',
+		desktopMin: '(min-width:1281px)'
+);
